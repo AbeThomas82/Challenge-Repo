@@ -17,7 +17,9 @@ The end user should be able to get the gist of what services are offered by the 
 ## Credits
 
 Sherwin Abraham
+
 "Xandromus", author of "Starter Code"
+
 Classmates/Instructors/TA's who have helped
 
 ## License
