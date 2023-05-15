@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HoriSEOn Refactoring Code
 
 ## Description
@@ -15,3 +16,6 @@ The end user should be able to get the gist of what services are offered by the 
 ## License
 
 Please refer to the LICENSE in the repo.
+=======
+# Challenge-Repo
+>>>>>>> a038db330a5a84e28ad420a228f8e519ce4bc6f2
