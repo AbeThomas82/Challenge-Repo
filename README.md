@@ -8,9 +8,17 @@ Images should have alt commands attached, and the heading and title should be co
 
 ## Installation
 
+N/A
+
 ## Usage
 
 The end user should be able to get the gist of what services are offered by the HoriSEOn in order to determine whether or not the services will be beneficial enough to improve the exposure and awareness of their organization via search engines.
+
+## Credits
+
+Sherwin Abraham
+"Xandromus", author of "Starter Code"
+Classmates/Instructors/TA's who have helped
 
 ## License
 
