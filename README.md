@@ -8,7 +8,7 @@ The purpose of this assignment was to create a more organized code for the HoriS
 
 Images should have 'alt' commands attached, and the heading and title should be concise, effective, and organized without neglecting proper detail.
 
-I have learned from this challenge that words do matter. Semantic language use promotes structure and clarity in web development. I hope that the organization met instructor standards. Thank you.
+I have learned from this challenge that words do matter. Semantic language use promotes structure and clarity in web development. I hope that the assignment met instructor standards. Thank you.
 
 ## Installation
 
